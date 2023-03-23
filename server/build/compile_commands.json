@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/junghaejune/haejune/tracking-system/websocket-server-demo/server/build",
+  "command": "/usr/bin/g++  -D_WEBSOCKETPP_CPP11_STRICT_ -isystem /home/junghaejune/haejune/tracking-system/websocket-server-demo/server/external   -Wall -pthread -g   -std=c++11 -o CMakeFiles/server.dir/server.cpp.o -c /home/junghaejune/haejune/tracking-system/websocket-server-demo/server/server.cpp",
+  "file": "/home/junghaejune/haejune/tracking-system/websocket-server-demo/server/server.cpp"
+},
+{
+  "directory": "/home/junghaejune/haejune/tracking-system/websocket-server-demo/server/build",
+  "command": "/usr/bin/g++  -D_WEBSOCKETPP_CPP11_STRICT_ -isystem /home/junghaejune/haejune/tracking-system/websocket-server-demo/server/external   -Wall -pthread -g   -std=c++11 -o CMakeFiles/server.dir/WebsocketServer.cpp.o -c /home/junghaejune/haejune/tracking-system/websocket-server-demo/server/WebsocketServer.cpp",
+  "file": "/home/junghaejune/haejune/tracking-system/websocket-server-demo/server/WebsocketServer.cpp"
+},
+{
+  "directory": "/home/junghaejune/haejune/tracking-system/websocket-server-demo/server/build",
+  "command": "/usr/bin/g++  -D_WEBSOCKETPP_CPP11_STRICT_ -isystem /home/junghaejune/haejune/tracking-system/websocket-server-demo/server/external   -Wall -pthread -g   -std=c++11 -o CMakeFiles/jsoncpp.dir/external/jsoncpp.cpp.o -c /home/junghaejune/haejune/tracking-system/websocket-server-demo/server/external/jsoncpp.cpp",
+  "file": "/home/junghaejune/haejune/tracking-system/websocket-server-demo/server/external/jsoncpp.cpp"
+}
+]

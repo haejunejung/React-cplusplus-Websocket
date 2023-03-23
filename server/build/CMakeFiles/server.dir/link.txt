@@ -1,0 +1,1 @@
+/usr/bin/g++   -Wall -pthread -g   CMakeFiles/server.dir/server.cpp.o CMakeFiles/server.dir/WebsocketServer.cpp.o  -o server  libjsoncpp.a 
